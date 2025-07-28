@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+python-dotenv
+faiss-gpu
+langchain-community
+sentence-transformers
+pypdf
