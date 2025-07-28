@@ -1,7 +1,7 @@
 langchain
 langchain-google-genai
 python-dotenv
-faiss-gpu
+faiss-cpu
 langchain-community
 sentence-transformers
 pypdf
