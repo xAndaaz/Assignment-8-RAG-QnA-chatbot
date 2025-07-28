@@ -6,6 +6,8 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain_google_genai import ChatGoogleGenerativeAI
+import warnings
+warnings.filterwarnings("ignore")
 
 # Load environment variables
 load_dotenv()
