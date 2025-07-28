@@ -27,8 +27,8 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/Assignment-8-RAG-QnA-chatbot.git
+cd Assignment-8-RAG-QnA-chatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -40,10 +40,7 @@ It is highly recommended to use a virtual environment to manage project dependen
 python -m venv .venv
 
 # Activate the virtual environment
-# On Windows:
 .venv\Scripts\activate
-# On macOS/Linux:
-source .venv/bin/activate
 ```
 
 ### 3. Install Dependencies
